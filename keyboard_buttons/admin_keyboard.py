@@ -25,7 +25,7 @@ manzil = InlineKeyboardMarkup(
      InlineKeyboardButton(text="Bizning manzil",url="https://www.google.com/maps/@40.1028381,65.3730178,16z?entry=ttu")],
     
 
-    [InlineKeyboardButton(text="Admin bilan bog'lanish",url="https://t.me/Alisherov1ch_002")],
+    [InlineKeyboardButton(text="Admin bilan bog'lanish",url="https://t.me/solo_hub")],
     #  [InlineKeyboardButton(text="bot haqida",)],
     ]
 )
