@@ -23,3 +23,5 @@ Linux/Mac
 python3 app.py
 ```
 "# Calculator-bot" 
+
+![image](https://github.com/Azizbekhack/calculator_bot/assets/170541584/270cd675-09cc-413c-ae47-b8bfd40511fb)
